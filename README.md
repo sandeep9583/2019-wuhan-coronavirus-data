@@ -1,4 +1,4 @@
-# 2019 Wuhan Coronavirus data (COVID-19 / 2019-nCoV)
+# 2020 Wuhan Coronavirus data (COVID-20 / 2020-nCoV)
 
 This public repository archives data over time from various public sources on the web.
 
